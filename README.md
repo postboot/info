@@ -4,11 +4,6 @@ Information for POSTBoot members
 ## Discord
 As of 7/24/20 we'll be using discord for communication, meetings, announcements, and the like
 
-
-![Discord Banner 4](https://discordapp.com/api/guilds/734505167742959758/widget.png?style=banner2)
-
-
-
 <!-- The link we want our bower bird to point to -->
 [1]: https://discord.gg/GXN9MU7
 <!-- The image url we want to use for our img tag source -->
@@ -20,4 +15,4 @@ This will compile to two html nodes:
   Image:    ![alt text][2]: <img src="2" alt="alt text" />
 The image node will be nested inside of the anchor node.
 -->
-[![Bower.io: A Frontend Package Manager. logo][2]][1]
+[![POSTBoot Discord][2]][1]
